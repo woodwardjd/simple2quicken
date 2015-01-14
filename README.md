@@ -1,5 +1,7 @@
 # simple2quicken
 
+__Note:__ Simple now supports Quicken Web Connect, so no need to use this anymore (checked 2015-01-14).
+
 A simple command line tool for converting [Simple](http://simple.com) CSV exported transactions into the QIF format suitable for import into Quicken.
 
 ## Usage
